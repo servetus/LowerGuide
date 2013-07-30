@@ -1,9 +1,11 @@
 Replacement Lower Guide Plate for the Truvativ X-Guide Chain Guide
 ==================================================================
 
-This bicycle part is intended to be a replacement part for what's called the 'Lower Guide Plate' portion of the Truvativ X-Guide Chain Guide. The function of this part is to guide a loose chain back onto the gears should it come loose. Because of its position on the bike it is prone to failure. Unfortunatly Truvativ has not made replacements widely available for this non-essential part. 
+This bicycle part is intended to be a replacement part for what's called the 'Lower Guide Plate' portion of the Truvativ X-Guide Chain Guide. The function of this part is to guide a loose chain back onto the gears should it come loose. Because of its position on the bike it is prone to failure. Unfortunately Truvativ has not made replacements widely available for this non-essential part. 
 
 Tested using Makerbot Thing-o-matic using ABS plastic.
+
+Available on Thingiverse at: http://www.thingiverse.com/thing:121543
 
 Printing Notes
 --------------
